@@ -84,7 +84,7 @@ const Form: FC<IFormComponentProps> = ({
             WebkitTextFillColor: 'transparent',
           }}
         >
-          quizzical
+          quizWiz
         </Typography>
 
         <TextField
