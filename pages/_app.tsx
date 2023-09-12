@@ -18,10 +18,10 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider theme={theme}>
       <Head>
-        <title>Quizzical - Quiz App</title>
+        <title>QuizWiz - Quiz App</title>
         <meta
           name="description"
-          content="Test your knowledge and challenge your friends with our fun and interactive quiz app. Featuring a wide range of topics and difficulty levels. Play now and see who's the smartest!"
+          content="Featuring a wide range of topics and difficulty levels. Play now and see who's the smartest!"
         ></meta>
       </Head>
       <CssBaseline />
